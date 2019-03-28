@@ -1,0 +1,644 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: NewsAnchor\n"
+"POT-Creation-Date: 2015-05-20 18:26+0200\n"
+"PO-Revision-Date: 2015-05-20 18:26+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.3\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e;_x;esc_html_e;esc_html__;esc_html_x\n"
+"X-Poedit-SearchPath-0: D:\\Programe\\InstantWP\\InstantWP_4.3.1\\iwpserver"
+"\\htdocs\\wordpress\\wp-content\\themes\\newsanchor\n"
+
+#: D:\Programe\InstantWP\InstantWP_4.3.1\iwpserver\htdocs\wordpress\wp-content\themes\newsanchor/404.php:15
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: D:\Programe\InstantWP\InstantWP_4.3.1\iwpserver\htdocs\wordpress\wp-content\themes\newsanchor/404.php:19
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+msgstr ""
+
+#: D:\Programe\InstantWP\InstantWP_4.3.1\iwpserver\htdocs\wordpress\wp-content\themes\newsanchor/comments.php:38
+#: D:\Programe\InstantWP\InstantWP_4.3.1\iwpserver\htdocs\wordpress\wp-content\themes\newsanchor/comments.php:60
+msgid "Comment navigation"
+msgstr ""
+
+#: D:\Programe\InstantWP\InstantWP_4.3.1\iwpserver\htdocs\wordpress\wp-content\themes\newsanchor/comments.php:41
+#: D:\Programe\InstantWP\InstantWP_4.3.1\iwpserver\htdocs\wordpress\wp-content\themes\newsanchor/comments.php:63
+msgid "Older Comments"
+msgstr ""
+
+#: D:\Programe\InstantWP\InstantWP_4.3.1\iwpserver\htdocs\wordpress\wp-content\themes\newsanchor/comments.php:42
+#: D:\Programe\InstantWP\InstantWP_4.3.1\iwpserver\htdocs\wordpress\wp-content\themes\newsanchor/comments.php:64
+msgid "Newer Comments"
+msgstr ""
+
+#: D:\Programe\InstantWP\InstantWP_4.3.1\iwpserver\htdocs\wordpress\wp-content\themes\newsanchor/comments.php:76
+msgid "Comments are closed."
+msgstr ""
+
+#: D:\Programe\InstantWP\InstantWP_4.3.1\iwpserver\htdocs\wordpress\wp-content\themes\newsanchor/footer.php:27
+msgid "http://wordpress.org/"
+msgstr ""
+
+#: D:\Programe\InstantWP\InstantWP_4.3.1\iwpserver\htdocs\wordpress\wp-content\themes\newsanchor/footer.php:27
+#, php-format
+msgid "Proudly powered by %s"
+msgstr ""
+
+#: D:\Programe\InstantWP\InstantWP_4.3.1\iwpserver\htdocs\wordpress\wp-content\themes\newsanchor/footer.php:29
+#, php-format
+msgid "Theme: %2$s by %1$s."
+msgstr ""
+
+#: D:\Programe\InstantWP\InstantWP_4.3.1\iwpserver\htdocs\wordpress\wp-content\themes\newsanchor/functions.php:57
+msgid "Primary Menu"
+msgstr ""
+
+#: D:\Programe\InstantWP\InstantWP_4.3.1\iwpserver\htdocs\wordpress\wp-content\themes\newsanchor/functions.php:58
+msgid "Social Menu"
+msgstr ""
+
+#: D:\Programe\InstantWP\InstantWP_4.3.1\iwpserver\htdocs\wordpress\wp-content\themes\newsanchor/functions.php:93
+msgid "Sidebar"
+msgstr ""
+
+#: D:\Programe\InstantWP\InstantWP_4.3.1\iwpserver\htdocs\wordpress\wp-content\themes\newsanchor/functions.php:103
+msgid "Home page"
+msgstr ""
+
+#: D:\Programe\InstantWP\InstantWP_4.3.1\iwpserver\htdocs\wordpress\wp-content\themes\newsanchor/functions.php:105
+msgid "This widget area is displayed on the Front Page template"
+msgstr ""
+
+#: D:\Programe\InstantWP\InstantWP_4.3.1\iwpserver\htdocs\wordpress\wp-content\themes\newsanchor/functions.php:113
+msgid "Header widget area"
+msgstr ""
+
+#: D:\Programe\InstantWP\InstantWP_4.3.1\iwpserver\htdocs\wordpress\wp-content\themes\newsanchor/functions.php:115
+msgid ""
+"You can use this widget area to display ads inserted in a text widget. Use "
+"responsive ads for best results."
+msgstr ""
+
+#: D:\Programe\InstantWP\InstantWP_4.3.1\iwpserver\htdocs\wordpress\wp-content\themes\newsanchor/functions.php:126
+msgid "Footer "
+msgstr ""
+
+#: D:\Programe\InstantWP\InstantWP_4.3.1\iwpserver\htdocs\wordpress\wp-content\themes\newsanchor/functions.php:210
+msgid "Create your menu here"
+msgstr ""
+
+#: D:\Programe\InstantWP\InstantWP_4.3.1\iwpserver\htdocs\wordpress\wp-content\themes\newsanchor/header.php:31
+msgid "Skip to content"
+msgstr ""
+
+#: D:\Programe\InstantWP\InstantWP_4.3.1\iwpserver\htdocs\wordpress\wp-content\themes\newsanchor/search.php:16
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: D:\Programe\InstantWP\InstantWP_4.3.1\iwpserver\htdocs\wordpress\wp-content\themes\newsanchor/inc/customizer.php:18
+msgid "Site title/tagline/logo"
+msgstr ""
+
+#: D:\Programe\InstantWP\InstantWP_4.3.1\iwpserver\htdocs\wordpress\wp-content\themes\newsanchor/inc/customizer.php:38
+msgid "&mdash; Select &mdash;"
+msgstr ""
+
+#: D:\Programe\InstantWP\InstantWP_4.3.1\iwpserver\htdocs\wordpress\wp-content\themes\newsanchor/inc/customizer.php:58
+msgid "General"
+msgstr ""
+
+#: D:\Programe\InstantWP\InstantWP_4.3.1\iwpserver\htdocs\wordpress\wp-content\themes\newsanchor/inc/customizer.php:75
+msgid "Upload your favicon"
+msgstr ""
+
+#: D:\Programe\InstantWP\InstantWP_4.3.1\iwpserver\htdocs\wordpress\wp-content\themes\newsanchor/inc/customizer.php:96
+msgid "Upload your logo"
+msgstr ""
+
+#: D:\Programe\InstantWP\InstantWP_4.3.1\iwpserver\htdocs\wordpress\wp-content\themes\newsanchor/inc/customizer.php:99
+msgid "Displayed instead of the site title and description"
+msgstr ""
+
+#: D:\Programe\InstantWP\InstantWP_4.3.1\iwpserver\htdocs\wordpress\wp-content\themes\newsanchor/inc/customizer.php:109
+msgid "Carousel"
+msgstr ""
+
+#: D:\Programe\InstantWP\InstantWP_4.3.1\iwpserver\htdocs\wordpress\wp-content\themes\newsanchor/inc/customizer.php:125
+msgid "Show carousel on front page?"
+msgstr ""
+
+#: D:\Programe\InstantWP\InstantWP_4.3.1\iwpserver\htdocs\wordpress\wp-content\themes\newsanchor/inc/customizer.php:142
+msgid "Show carousel on blog index/archives/etc?"
+msgstr ""
+
+#: D:\Programe\InstantWP\InstantWP_4.3.1\iwpserver\htdocs\wordpress\wp-content\themes\newsanchor/inc/customizer.php:159
+msgid "Show carousel on single posts and pages?"
+msgstr ""
+
+#: D:\Programe\InstantWP\InstantWP_4.3.1\iwpserver\htdocs\wordpress\wp-content\themes\newsanchor/inc/customizer.php:171
+msgid "Select which category to show in the carousel"
+msgstr ""
+
+#: D:\Programe\InstantWP\InstantWP_4.3.1\iwpserver\htdocs\wordpress\wp-content\themes\newsanchor/inc/customizer.php:187
+msgid "Enter the carousel speed in miliseconds [Default: 4000]"
+msgstr ""
+
+#: D:\Programe\InstantWP\InstantWP_4.3.1\iwpserver\htdocs\wordpress\wp-content\themes\newsanchor/inc/customizer.php:204
+msgid "Enter the number of posts you want to show"
+msgstr ""
+
+#: D:\Programe\InstantWP\InstantWP_4.3.1\iwpserver\htdocs\wordpress\wp-content\themes\newsanchor/inc/customizer.php:216
+msgid "Blog options"
+msgstr ""
+
+#: D:\Programe\InstantWP\InstantWP_4.3.1\iwpserver\htdocs\wordpress\wp-content\themes\newsanchor/inc/customizer.php:228
+msgid "Layout"
+msgstr ""
+
+#: D:\Programe\InstantWP\InstantWP_4.3.1\iwpserver\htdocs\wordpress\wp-content\themes\newsanchor/inc/customizer.php:245
+msgid "Blog layout"
+msgstr ""
+
+#: D:\Programe\InstantWP\InstantWP_4.3.1\iwpserver\htdocs\wordpress\wp-content\themes\newsanchor/inc/customizer.php:249
+#: D:\Programe\InstantWP\InstantWP_4.3.1\iwpserver\htdocs\wordpress\wp-content\themes\newsanchor/inc/customizer.php:989
+msgid "Classic"
+msgstr ""
+
+#: D:\Programe\InstantWP\InstantWP_4.3.1\iwpserver\htdocs\wordpress\wp-content\themes\newsanchor/inc/customizer.php:250
+#: D:\Programe\InstantWP\InstantWP_4.3.1\iwpserver\htdocs\wordpress\wp-content\themes\newsanchor/inc/customizer.php:990
+msgid "Full width (no sidebar)"
+msgstr ""
+
+#: D:\Programe\InstantWP\InstantWP_4.3.1\iwpserver\htdocs\wordpress\wp-content\themes\newsanchor/inc/customizer.php:251
+#: D:\Programe\InstantWP\InstantWP_4.3.1\iwpserver\htdocs\wordpress\wp-content\themes\newsanchor/inc/customizer.php:991
+msgid "Masonry (grid style)"
+msgstr ""
+
+#: D:\Programe\InstantWP\InstantWP_4.3.1\iwpserver\htdocs\wordpress\wp-content\themes\newsanchor/inc/customizer.php:266
+msgid "Full width single posts?"
+msgstr ""
+
+#: D:\Programe\InstantWP\InstantWP_4.3.1\iwpserver\htdocs\wordpress\wp-content\themes\newsanchor/inc/customizer.php:280
+msgid "Meta"
+msgstr ""
+
+#: D:\Programe\InstantWP\InstantWP_4.3.1\iwpserver\htdocs\wordpress\wp-content\themes\newsanchor/inc/customizer.php:298
+msgid "Hide post meta on index, archives?"
+msgstr ""
+
+#: D:\Programe\InstantWP\InstantWP_4.3.1\iwpserver\htdocs\wordpress\wp-content\themes\newsanchor/inc/customizer.php:315
+msgid "Hide post meta on singles?"
+msgstr ""
+
+#: D:\Programe\InstantWP\InstantWP_4.3.1\iwpserver\htdocs\wordpress\wp-content\themes\newsanchor/inc/customizer.php:328
+msgid "Featured images"
+msgstr ""
+
+#: D:\Programe\InstantWP\InstantWP_4.3.1\iwpserver\htdocs\wordpress\wp-content\themes\newsanchor/inc/customizer.php:345
+msgid "Check this box to hide featured images on index, archives etc."
+msgstr ""
+
+#: D:\Programe\InstantWP\InstantWP_4.3.1\iwpserver\htdocs\wordpress\wp-content\themes\newsanchor/inc/customizer.php:361
+msgid "Check this box to hide featured images on single posts"
+msgstr ""
+
+#: D:\Programe\InstantWP\InstantWP_4.3.1\iwpserver\htdocs\wordpress\wp-content\themes\newsanchor/inc/customizer.php:371
+msgid "Footer"
+msgstr ""
+
+#: D:\Programe\InstantWP\InstantWP_4.3.1\iwpserver\htdocs\wordpress\wp-content\themes\newsanchor/inc/customizer.php:387
+msgid "Footer widget area"
+msgstr ""
+
+#: D:\Programe\InstantWP\InstantWP_4.3.1\iwpserver\htdocs\wordpress\wp-content\themes\newsanchor/inc/customizer.php:389
+msgid ""
+"Select the number of widget areas you want in the footer. After that, go to "
+"Appearance > Widgets and add your widgets."
+msgstr ""
+
+#: D:\Programe\InstantWP\InstantWP_4.3.1\iwpserver\htdocs\wordpress\wp-content\themes\newsanchor/inc/customizer.php:391
+#: D:\Programe\InstantWP\InstantWP_4.3.1\iwpserver\htdocs\wordpress\wp-content\themes\newsanchor/inc/customizer.php:974
+msgid "One"
+msgstr ""
+
+#: D:\Programe\InstantWP\InstantWP_4.3.1\iwpserver\htdocs\wordpress\wp-content\themes\newsanchor/inc/customizer.php:392
+#: D:\Programe\InstantWP\InstantWP_4.3.1\iwpserver\htdocs\wordpress\wp-content\themes\newsanchor/inc/customizer.php:975
+msgid "Two"
+msgstr ""
+
+#: D:\Programe\InstantWP\InstantWP_4.3.1\iwpserver\htdocs\wordpress\wp-content\themes\newsanchor/inc/customizer.php:393
+#: D:\Programe\InstantWP\InstantWP_4.3.1\iwpserver\htdocs\wordpress\wp-content\themes\newsanchor/inc/customizer.php:976
+msgid "Three"
+msgstr ""
+
+#: D:\Programe\InstantWP\InstantWP_4.3.1\iwpserver\htdocs\wordpress\wp-content\themes\newsanchor/inc/customizer.php:394
+#: D:\Programe\InstantWP\InstantWP_4.3.1\iwpserver\htdocs\wordpress\wp-content\themes\newsanchor/inc/customizer.php:977
+msgid "Four"
+msgstr ""
+
+#: D:\Programe\InstantWP\InstantWP_4.3.1\iwpserver\htdocs\wordpress\wp-content\themes\newsanchor/inc/customizer.php:403
+msgid "Fonts"
+msgstr ""
+
+#: D:\Programe\InstantWP\InstantWP_4.3.1\iwpserver\htdocs\wordpress\wp-content\themes\newsanchor/inc/customizer.php:405
+msgid ""
+"Google Fonts can be found here: google.com/fonts. See the documentation if "
+"you need help in selecting Google Fonts: athemes.com/documentation/newsanchor"
+msgstr ""
+
+#: D:\Programe\InstantWP\InstantWP_4.3.1\iwpserver\htdocs\wordpress\wp-content\themes\newsanchor/inc/customizer.php:416
+msgid "Body fonts"
+msgstr ""
+
+#: D:\Programe\InstantWP\InstantWP_4.3.1\iwpserver\htdocs\wordpress\wp-content\themes\newsanchor/inc/customizer.php:433
+#: D:\Programe\InstantWP\InstantWP_4.3.1\iwpserver\htdocs\wordpress\wp-content\themes\newsanchor/inc/customizer.php:481
+msgid "Font name/style/sets"
+msgstr ""
+
+#: D:\Programe\InstantWP\InstantWP_4.3.1\iwpserver\htdocs\wordpress\wp-content\themes\newsanchor/inc/customizer.php:450
+#: D:\Programe\InstantWP\InstantWP_4.3.1\iwpserver\htdocs\wordpress\wp-content\themes\newsanchor/inc/customizer.php:498
+msgid "Font family"
+msgstr ""
+
+#: D:\Programe\InstantWP\InstantWP_4.3.1\iwpserver\htdocs\wordpress\wp-content\themes\newsanchor/inc/customizer.php:464
+msgid "Headings fonts"
+msgstr ""
+
+#: D:\Programe\InstantWP\InstantWP_4.3.1\iwpserver\htdocs\wordpress\wp-content\themes\newsanchor/inc/customizer.php:512
+msgid "Font sizes"
+msgstr ""
+
+#: D:\Programe\InstantWP\InstantWP_4.3.1\iwpserver\htdocs\wordpress\wp-content\themes\newsanchor/inc/customizer.php:530
+msgid "Site title"
+msgstr ""
+
+#: D:\Programe\InstantWP\InstantWP_4.3.1\iwpserver\htdocs\wordpress\wp-content\themes\newsanchor/inc/customizer.php:550
+#: D:\Programe\InstantWP\InstantWP_4.3.1\iwpserver\htdocs\wordpress\wp-content\themes\newsanchor/inc/customizer.php:733
+msgid "Site description"
+msgstr ""
+
+#: D:\Programe\InstantWP\InstantWP_4.3.1\iwpserver\htdocs\wordpress\wp-content\themes\newsanchor/inc/customizer.php:570
+msgid "H1 font size"
+msgstr ""
+
+#: D:\Programe\InstantWP\InstantWP_4.3.1\iwpserver\htdocs\wordpress\wp-content\themes\newsanchor/inc/customizer.php:590
+msgid "H2 font size"
+msgstr ""
+
+#: D:\Programe\InstantWP\InstantWP_4.3.1\iwpserver\htdocs\wordpress\wp-content\themes\newsanchor/inc/customizer.php:610
+msgid "H3 font size"
+msgstr ""
+
+#: D:\Programe\InstantWP\InstantWP_4.3.1\iwpserver\htdocs\wordpress\wp-content\themes\newsanchor/inc/customizer.php:630
+msgid "H4 font size"
+msgstr ""
+
+#: D:\Programe\InstantWP\InstantWP_4.3.1\iwpserver\htdocs\wordpress\wp-content\themes\newsanchor/inc/customizer.php:650
+msgid "H5 font size"
+msgstr ""
+
+#: D:\Programe\InstantWP\InstantWP_4.3.1\iwpserver\htdocs\wordpress\wp-content\themes\newsanchor/inc/customizer.php:670
+msgid "H6 font size"
+msgstr ""
+
+#: D:\Programe\InstantWP\InstantWP_4.3.1\iwpserver\htdocs\wordpress\wp-content\themes\newsanchor/inc/customizer.php:690
+msgid "Body font size"
+msgstr ""
+
+#: D:\Programe\InstantWP\InstantWP_4.3.1\iwpserver\htdocs\wordpress\wp-content\themes\newsanchor/inc/customizer.php:712
+msgid "Primary color"
+msgstr ""
+
+#: D:\Programe\InstantWP\InstantWP_4.3.1\iwpserver\htdocs\wordpress\wp-content\themes\newsanchor/inc/customizer.php:753
+msgid "Header background"
+msgstr ""
+
+#: D:\Programe\InstantWP\InstantWP_4.3.1\iwpserver\htdocs\wordpress\wp-content\themes\newsanchor/inc/customizer.php:773
+msgid "Menu background"
+msgstr ""
+
+#: D:\Programe\InstantWP\InstantWP_4.3.1\iwpserver\htdocs\wordpress\wp-content\themes\newsanchor/inc/customizer.php:792
+msgid "Menu color scheme (on item hover)"
+msgstr ""
+
+#: D:\Programe\InstantWP\InstantWP_4.3.1\iwpserver\htdocs\wordpress\wp-content\themes\newsanchor/inc/customizer.php:880
+msgid "Body text"
+msgstr ""
+
+#: D:\Programe\InstantWP\InstantWP_4.3.1\iwpserver\htdocs\wordpress\wp-content\themes\newsanchor/inc/customizer.php:900
+msgid "Footer widget area background"
+msgstr ""
+
+#: D:\Programe\InstantWP\InstantWP_4.3.1\iwpserver\htdocs\wordpress\wp-content\themes\newsanchor/inc/customizer.php:920
+msgid "Footer widgets color"
+msgstr ""
+
+#: D:\Programe\InstantWP\InstantWP_4.3.1\iwpserver\htdocs\wordpress\wp-content\themes\newsanchor/inc/customizer.php:940
+msgid "Credits background"
+msgstr ""
+
+#: D:\Programe\InstantWP\InstantWP_4.3.1\iwpserver\htdocs\wordpress\wp-content\themes\newsanchor/inc/extras.php:52
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: D:\Programe\InstantWP\InstantWP_4.3.1\iwpserver\htdocs\wordpress\wp-content\themes\newsanchor/inc/template-tags.php:23
+msgid "Posts navigation"
+msgstr ""
+
+#: D:\Programe\InstantWP\InstantWP_4.3.1\iwpserver\htdocs\wordpress\wp-content\themes\newsanchor/inc/template-tags.php:27
+msgid "Older posts"
+msgstr ""
+
+#: D:\Programe\InstantWP\InstantWP_4.3.1\iwpserver\htdocs\wordpress\wp-content\themes\newsanchor/inc/template-tags.php:31
+msgid "Newer posts"
+msgstr ""
+
+#: D:\Programe\InstantWP\InstantWP_4.3.1\iwpserver\htdocs\wordpress\wp-content\themes\newsanchor/inc/template-tags.php:56
+msgid "Post navigation"
+msgstr ""
+
+#: D:\Programe\InstantWP\InstantWP_4.3.1\iwpserver\htdocs\wordpress\wp-content\themes\newsanchor/inc/template-tags.php:88
+#, php-format
+msgid "%s"
+msgstr ""
+
+#: D:\Programe\InstantWP\InstantWP_4.3.1\iwpserver\htdocs\wordpress\wp-content\themes\newsanchor/inc/template-tags.php:94
+msgid ", "
+msgstr ""
+
+#. translators: used between list items, there is a space after the comma
+#: D:\Programe\InstantWP\InstantWP_4.3.1\iwpserver\htdocs\wordpress\wp-content\themes\newsanchor/inc/template-tags.php:110
+msgid " "
+msgstr ""
+
+#: D:\Programe\InstantWP\InstantWP_4.3.1\iwpserver\htdocs\wordpress\wp-content\themes\newsanchor/inc/template-tags.php:112
+#, php-format
+msgid "Tagged %1$s"
+msgstr ""
+
+#: D:\Programe\InstantWP\InstantWP_4.3.1\iwpserver\htdocs\wordpress\wp-content\themes\newsanchor/inc/template-tags.php:131
+#, php-format
+msgid "Category: %s"
+msgstr ""
+
+#: D:\Programe\InstantWP\InstantWP_4.3.1\iwpserver\htdocs\wordpress\wp-content\themes\newsanchor/inc/template-tags.php:133
+#, php-format
+msgid "Tag: %s"
+msgstr ""
+
+#: D:\Programe\InstantWP\InstantWP_4.3.1\iwpserver\htdocs\wordpress\wp-content\themes\newsanchor/inc/template-tags.php:135
+#, php-format
+msgid "Author: %s"
+msgstr ""
+
+#: D:\Programe\InstantWP\InstantWP_4.3.1\iwpserver\htdocs\wordpress\wp-content\themes\newsanchor/inc/template-tags.php:137
+#, php-format
+msgid "Year: %s"
+msgstr ""
+
+#: D:\Programe\InstantWP\InstantWP_4.3.1\iwpserver\htdocs\wordpress\wp-content\themes\newsanchor/inc/template-tags.php:137
+msgid "Y"
+msgstr ""
+
+#: D:\Programe\InstantWP\InstantWP_4.3.1\iwpserver\htdocs\wordpress\wp-content\themes\newsanchor/inc/template-tags.php:139
+#, php-format
+msgid "Month: %s"
+msgstr ""
+
+#: D:\Programe\InstantWP\InstantWP_4.3.1\iwpserver\htdocs\wordpress\wp-content\themes\newsanchor/inc/template-tags.php:139
+msgid "F Y"
+msgstr ""
+
+#: D:\Programe\InstantWP\InstantWP_4.3.1\iwpserver\htdocs\wordpress\wp-content\themes\newsanchor/inc/template-tags.php:141
+#, php-format
+msgid "Day: %s"
+msgstr ""
+
+#: D:\Programe\InstantWP\InstantWP_4.3.1\iwpserver\htdocs\wordpress\wp-content\themes\newsanchor/inc/template-tags.php:141
+msgid "F j, Y"
+msgstr ""
+
+#: D:\Programe\InstantWP\InstantWP_4.3.1\iwpserver\htdocs\wordpress\wp-content\themes\newsanchor/inc/template-tags.php:144
+msgid "Asides"
+msgstr ""
+
+#: D:\Programe\InstantWP\InstantWP_4.3.1\iwpserver\htdocs\wordpress\wp-content\themes\newsanchor/inc/template-tags.php:146
+msgid "Galleries"
+msgstr ""
+
+#: D:\Programe\InstantWP\InstantWP_4.3.1\iwpserver\htdocs\wordpress\wp-content\themes\newsanchor/inc/template-tags.php:148
+msgid "Images"
+msgstr ""
+
+#: D:\Programe\InstantWP\InstantWP_4.3.1\iwpserver\htdocs\wordpress\wp-content\themes\newsanchor/inc/template-tags.php:150
+msgid "Videos"
+msgstr ""
+
+#: D:\Programe\InstantWP\InstantWP_4.3.1\iwpserver\htdocs\wordpress\wp-content\themes\newsanchor/inc/template-tags.php:152
+msgid "Quotes"
+msgstr ""
+
+#: D:\Programe\InstantWP\InstantWP_4.3.1\iwpserver\htdocs\wordpress\wp-content\themes\newsanchor/inc/template-tags.php:154
+msgid "Links"
+msgstr ""
+
+#: D:\Programe\InstantWP\InstantWP_4.3.1\iwpserver\htdocs\wordpress\wp-content\themes\newsanchor/inc/template-tags.php:156
+msgid "Statuses"
+msgstr ""
+
+#: D:\Programe\InstantWP\InstantWP_4.3.1\iwpserver\htdocs\wordpress\wp-content\themes\newsanchor/inc/template-tags.php:158
+msgid "Audio"
+msgstr ""
+
+#: D:\Programe\InstantWP\InstantWP_4.3.1\iwpserver\htdocs\wordpress\wp-content\themes\newsanchor/inc/template-tags.php:160
+msgid "Chats"
+msgstr ""
+
+#: D:\Programe\InstantWP\InstantWP_4.3.1\iwpserver\htdocs\wordpress\wp-content\themes\newsanchor/inc/template-tags.php:163
+#, php-format
+msgid "Archives: %s"
+msgstr ""
+
+#. translators: 1: Taxonomy singular name, 2: Current taxonomy term
+#: D:\Programe\InstantWP\InstantWP_4.3.1\iwpserver\htdocs\wordpress\wp-content\themes\newsanchor/inc/template-tags.php:167
+#, php-format
+msgid "%1$s: %2$s"
+msgstr ""
+
+#: D:\Programe\InstantWP\InstantWP_4.3.1\iwpserver\htdocs\wordpress\wp-content\themes\newsanchor/inc/template-tags.php:169
+msgid "Archives"
+msgstr ""
+
+#: D:\Programe\InstantWP\InstantWP_4.3.1\iwpserver\htdocs\wordpress\wp-content\themes\newsanchor/template-parts/content-none.php:13
+msgid "Nothing Found"
+msgstr ""
+
+#: D:\Programe\InstantWP\InstantWP_4.3.1\iwpserver\htdocs\wordpress\wp-content\themes\newsanchor/template-parts/content-none.php:19
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: D:\Programe\InstantWP\InstantWP_4.3.1\iwpserver\htdocs\wordpress\wp-content\themes\newsanchor/template-parts/content-none.php:23
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: D:\Programe\InstantWP\InstantWP_4.3.1\iwpserver\htdocs\wordpress\wp-content\themes\newsanchor/template-parts/content-none.php:28
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: D:\Programe\InstantWP\InstantWP_4.3.1\iwpserver\htdocs\wordpress\wp-content\themes\newsanchor/template-parts/content-page.php:18
+#: D:\Programe\InstantWP\InstantWP_4.3.1\iwpserver\htdocs\wordpress\wp-content\themes\newsanchor/template-parts/content-single.php:29
+#: D:\Programe\InstantWP\InstantWP_4.3.1\iwpserver\htdocs\wordpress\wp-content\themes\newsanchor/template-parts/content.php:23
+msgid "Pages:"
+msgstr ""
+
+#: D:\Programe\InstantWP\InstantWP_4.3.1\iwpserver\htdocs\wordpress\wp-content\themes\newsanchor/template-parts/content-page.php:25
+msgid "Edit"
+msgstr ""
+
+#: D:\Programe\InstantWP\InstantWP_4.3.1\iwpserver\htdocs\wordpress\wp-content\themes\newsanchor/widgets/recent-comments.php:6
+msgid "Display your site&#8217;s recent comments with avatars."
+msgstr ""
+
+#: D:\Programe\InstantWP\InstantWP_4.3.1\iwpserver\htdocs\wordpress\wp-content\themes\newsanchor/widgets/recent-comments.php:7
+msgid "NewsAnchor: Recent Comments"
+msgstr ""
+
+#: D:\Programe\InstantWP\InstantWP_4.3.1\iwpserver\htdocs\wordpress\wp-content\themes\newsanchor/widgets/recent-comments.php:41
+msgid "Recent Comments"
+msgstr ""
+
+#. translators: comments widget: 1: comment author, 2: post link
+#: D:\Programe\InstantWP\InstantWP_4.3.1\iwpserver\htdocs\wordpress\wp-content\themes\newsanchor/widgets/recent-comments.php:67
+#, php-format
+msgid "%1$s on %2$s"
+msgstr ""
+
+#: D:\Programe\InstantWP\InstantWP_4.3.1\iwpserver\htdocs\wordpress\wp-content\themes\newsanchor/widgets/recent-comments.php:98
+#: D:\Programe\InstantWP\InstantWP_4.3.1\iwpserver\htdocs\wordpress\wp-content\themes\newsanchor/widgets/recent-posts-a.php:147
+#: D:\Programe\InstantWP\InstantWP_4.3.1\iwpserver\htdocs\wordpress\wp-content\themes\newsanchor/widgets/recent-posts-c.php:111
+msgid "Title:"
+msgstr ""
+
+#: D:\Programe\InstantWP\InstantWP_4.3.1\iwpserver\htdocs\wordpress\wp-content\themes\newsanchor/widgets/recent-comments.php:101
+msgid "Number of comments to show:"
+msgstr ""
+
+#: D:\Programe\InstantWP\InstantWP_4.3.1\iwpserver\htdocs\wordpress\wp-content\themes\newsanchor/widgets/recent-posts-a.php:11
+msgid "Recent posts widget Type A (front page)"
+msgstr ""
+
+#: D:\Programe\InstantWP\InstantWP_4.3.1\iwpserver\htdocs\wordpress\wp-content\themes\newsanchor/widgets/recent-posts-a.php:12
+msgid "NewsAnchor: Recent posts type A"
+msgstr ""
+
+#: D:\Programe\InstantWP\InstantWP_4.3.1\iwpserver\htdocs\wordpress\wp-content\themes\newsanchor/widgets/recent-posts-a.php:150
+#: D:\Programe\InstantWP\InstantWP_4.3.1\iwpserver\htdocs\wordpress\wp-content\themes\newsanchor/widgets/recent-posts-c.php:114
+msgid ""
+"Enter the slug for your category or leave empty to show posts from all "
+"categories."
+msgstr ""
+
+#: D:\Programe\InstantWP\InstantWP_4.3.1\iwpserver\htdocs\wordpress\wp-content\themes\newsanchor/widgets/recent-posts-b.php:11
+msgid "Recent posts widget Type B (front page)"
+msgstr ""
+
+#: D:\Programe\InstantWP\InstantWP_4.3.1\iwpserver\htdocs\wordpress\wp-content\themes\newsanchor/widgets/recent-posts-b.php:12
+msgid "NewsAnchor: Recent posts type B"
+msgstr ""
+
+#: D:\Programe\InstantWP\InstantWP_4.3.1\iwpserver\htdocs\wordpress\wp-content\themes\newsanchor/widgets/recent-posts-b.php:191
+msgid "Enter the slug for your first category."
+msgstr ""
+
+#: D:\Programe\InstantWP\InstantWP_4.3.1\iwpserver\htdocs\wordpress\wp-content\themes\newsanchor/widgets/recent-posts-b.php:194
+msgid "Enter the slug for your second category."
+msgstr ""
+
+#: D:\Programe\InstantWP\InstantWP_4.3.1\iwpserver\htdocs\wordpress\wp-content\themes\newsanchor/widgets/recent-posts-c.php:11
+msgid "Recent posts widget Type C (front page)"
+msgstr ""
+
+#: D:\Programe\InstantWP\InstantWP_4.3.1\iwpserver\htdocs\wordpress\wp-content\themes\newsanchor/widgets/recent-posts-c.php:12
+msgid "NewsAnchor: Recent posts type C"
+msgstr ""
+
+#: D:\Programe\InstantWP\InstantWP_4.3.1\iwpserver\htdocs\wordpress\wp-content\themes\newsanchor/widgets/recent-posts.php:7
+msgid "Display your site&#8217;s recent posts with thumbnails."
+msgstr ""
+
+#: D:\Programe\InstantWP\InstantWP_4.3.1\iwpserver\htdocs\wordpress\wp-content\themes\newsanchor/widgets/recent-posts.php:8
+msgid "NewsAnchor: Recent Posts"
+msgstr ""
+
+#: D:\Programe\InstantWP\InstantWP_4.3.1\iwpserver\htdocs\wordpress\wp-content\themes\newsanchor/widgets/recent-posts.php:26
+#: D:\Programe\InstantWP\InstantWP_4.3.1\iwpserver\htdocs\wordpress\wp-content\themes\newsanchor/widgets/video-widget.php:21
+msgid "Title"
+msgstr ""
+
+#: D:\Programe\InstantWP\InstantWP_4.3.1\iwpserver\htdocs\wordpress\wp-content\themes\newsanchor/widgets/recent-posts.php:30
+msgid "Number of posts to show:"
+msgstr ""
+
+#: D:\Programe\InstantWP\InstantWP_4.3.1\iwpserver\htdocs\wordpress\wp-content\themes\newsanchor/widgets/recent-posts.php:34
+msgid "Display post date?"
+msgstr ""
+
+#: D:\Programe\InstantWP\InstantWP_4.3.1\iwpserver\htdocs\wordpress\wp-content\themes\newsanchor/widgets/recent-posts.php:81
+msgid "Recent Posts"
+msgstr ""
+
+#: D:\Programe\InstantWP\InstantWP_4.3.1\iwpserver\htdocs\wordpress\wp-content\themes\newsanchor/widgets/tabbed-widget.php:11
+msgid "Tabbed widget"
+msgstr ""
+
+#: D:\Programe\InstantWP\InstantWP_4.3.1\iwpserver\htdocs\wordpress\wp-content\themes\newsanchor/widgets/tabbed-widget.php:12
+msgid "NewsAnchor: Tabbed"
+msgstr ""
+
+#: D:\Programe\InstantWP\InstantWP_4.3.1\iwpserver\htdocs\wordpress\wp-content\themes\newsanchor/widgets/tabbed-widget.php:46
+msgid "Tags"
+msgstr ""
+
+#: D:\Programe\InstantWP\InstantWP_4.3.1\iwpserver\htdocs\wordpress\wp-content\themes\newsanchor/widgets/tabbed-widget.php:47
+msgid "Latest"
+msgstr ""
+
+#: D:\Programe\InstantWP\InstantWP_4.3.1\iwpserver\htdocs\wordpress\wp-content\themes\newsanchor/widgets/tabbed-widget.php:48
+msgid "Comments"
+msgstr ""
+
+#: D:\Programe\InstantWP\InstantWP_4.3.1\iwpserver\htdocs\wordpress\wp-content\themes\newsanchor/widgets/tabbed-widget.php:93
+msgid "There are no settings for this widget. Simply add it in your sidebar"
+msgstr ""
+
+#: D:\Programe\InstantWP\InstantWP_4.3.1\iwpserver\htdocs\wordpress\wp-content\themes\newsanchor/widgets/video-widget.php:6
+msgid "Display a video from Youtube, Vimeo etc."
+msgstr ""
+
+#: D:\Programe\InstantWP\InstantWP_4.3.1\iwpserver\htdocs\wordpress\wp-content\themes\newsanchor/widgets/video-widget.php:7
+msgid "NewsAnchor: Video"
+msgstr ""
+
+#: D:\Programe\InstantWP\InstantWP_4.3.1\iwpserver\htdocs\wordpress\wp-content\themes\newsanchor/widgets/video-widget.php:25
+msgid ""
+"Paste the URL of the video (only from a network that supports oEmbed, like "
+"Youtube, Vimeo etc.):"
+msgstr ""

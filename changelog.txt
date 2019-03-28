@@ -1,0 +1,8 @@
+Changelog
+
+29 June 2015 - 1.02
+--------------------------------------
+- added escaping for fonts;
+- few changes related to image sizes;
+- changed carousel breakpoint.
+
